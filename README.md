@@ -10,4 +10,4 @@ The app was created using Eclipse. Hence, the Java files can be found in *CardCi
 ## Style
 When reading the code you will immediately notice the app was created with an object orientated approach that provides  encapsulation of objects like Card, BackImage, and PlayingStackofCards to name a few. In addition, multiple data structures such as queues and stacks were used.
 ## Installation
-You can install the app by pulling the file and running it through eclipse or running CardCity.exc
+You can install the app by pulling the file and running it through eclipse or running CardCity.jar
